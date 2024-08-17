@@ -1,8 +1,5 @@
-Here's a refined and clear description for your GitHub repository that highlights all features and setup instructions:
 
----
-
-## STUDENT_PORTAL-PHP
+## FLEX - STUDENT PORTAL-PHP
 
 **Description:**
 The STUDENT_PORTAL-PHP repository features a student portal developed using PHP. This project provides a comprehensive platform for students to access academic resources, manage their profiles, view course materials, and interact with instructors. It includes a robust system for user authentication, course management, and profile management, integrated with a MySQL database.
